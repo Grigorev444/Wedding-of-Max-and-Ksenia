@@ -11,13 +11,13 @@
             text-align: center;
             margin: 0;
             padding: 0;
-            background-image: url('https://via.placeholder.com/1920x1080'); /* Замените ссылку на ваше фоновое изображение */
+            background-image: url('https://plus.unsplash.com/premium_photo-1674235768948-5d365df2f20b?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); 
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
         }
         .overlay {
-            background-color: rgba(255, 255, 255, 0.8); /* Полупрозрачный белый фон для контента */
+            background-color: rgba(255, 255, 255, 0.8); 
             padding: 20px;
             border-radius: 10px;
             max-width: 600px;
@@ -62,7 +62,7 @@
     <div class="overlay">
         <h1>Приглашение на свадьбу</h1>
         <div class="names">Максим & Ксения</div>
-        <img src="https://sun9-55.userapi.com/impg/5wGbNxyzwmhB-G0fS05DSl1mUZjI4euEuyEMdQ/IBSpBQ8ec2I.jpg?size=1106x1472&quality=96&sign=ee8d69d90724a852980eb75c80910713&type=album" alt="Фото пары" class="photo">
+        <img src="https://sun9-1.userapi.com/impg/Oy75RWVU7FnmilMyKEtXCDU6sY15ydtvU0RTLA/GqPygYyaRTY.jpg?size=1104x1472&quality=96&sign=6147fc219b00010532bf400c5057b9e4&type=album" alt="Фото пары" class="photo">
         <div class="date">08.08.2025</div>
         <div class="location">Город Екатеринбург, Верхняя Пышма Загс 10:00 </div>
         <div class="message">
