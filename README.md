@@ -54,7 +54,7 @@
             border-radius: 10px;
         }
         .details {
-            background-image: url('https://img.freepik.com/premium-photo/lettering-spring-with-white-flowers-grey-background_76790-195.jpg?w=740'); /* Замените на второй фон */
+            background-image: url('https://img.freepik.com/premium-photo/flowers-composition-fresh-eucalyptus-leaves-cotton-flowers-light-background-banner_114589-468.jpg?w=1800'); /* Замените на второй фон */
             color: white;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
         }
@@ -91,10 +91,10 @@
         <p>Приглашаем вас на нашу  свадьбу!</p>
         <div class="names">Максим & Ксения</div>
         <div class="countdown" id="countdown">
-            <div><span id="days"></span> 187 дней</div>
-            <div><span id="hours"></span> 17 часов</div>
-            <div><span id="minutes"></span> 37 минут</div>
-            <div><span id="seconds"></span> 10 секунд</div>
+            <div><span id="days"></span>  дней</div>
+            <div><span id="hours"></span>  часов</div>
+            <div><span id="minutes"></span>  минут</div>
+            <div><span id="seconds"></span>  секунд</div>
         </div>
     </section>
 
@@ -103,10 +103,10 @@
         <h2>Место проведения</h2>
         <p>Город Екатеринбург, 08.08.2025 года</p>
         <p>ЗАГС Пышма, время 10:00</p>
-        <img src="https://sun9-71.userapi.com/impg/5iMOZHT3QCjCJM1Tx5BMaGBkoUIAbYbdnyavMQ/hysAnbyUpU4.jpg?size=1104x1472&quality=96&sign=3dc37e01b39622a8e3fe4b8dce9e234f&type=album"> <!-- Замените на ваше фото -->
+        <img src="https://sun9-3.userapi.com/impg/Zt7zJLILuZ3PTcjewTXgs-D7O1fm1ddo8Qz7CA/LsWMeWx-wHI.jpg?size=1178x1472&quality=96&sign=f58128b133f0b39eab30497e169976d6&type=album> <!-- Замените на ваше фото -->
         <p class="dress-code">Дресс-код: При выборе одежды придерживаемся постельных тонов.</p>
         <p class="confirmation">Пожалуйста, сообщите о своем присутствии до 01.03.2025 года.</p>
-        <img src="https://sun9-41.userapi.com/impg/c855536/v855536779/1d7154/7ZTjLn4IM1o.jpg?size=960x1280&quality=96&sign=187eb956a09541773e855d1790e9a07f&type=album"> <!-- Замените на ваше фото -->
+        <img src="https://sun9-55.userapi.com/impg/uPWA1ZWxK4Egjtev0ysN-OAoNxv5PXU_j8rRSA/V6XaCjUNL6w.jpg?size=719x960&quality=96&sign=d9cf3127fe18e706f953ce93d0d351ec&type=album"> <!-- Замените на ваше фото -->
         <h2>Ждем вас на свадьбе!</h2>
     </section>
 
