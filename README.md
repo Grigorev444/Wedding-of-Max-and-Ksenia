@@ -7,19 +7,21 @@
     <style>
         body {
             font-family: 'Georgia', serif;
-            background-color: #f7f3e9;
             color: #5a4a42;
             text-align: center;
-            padding: 20px;
             margin: 0;
+            padding: 0;
+            background-image: url('https://via.placeholder.com/1920x1080'); /* Замените ссылку на ваше фоновое изображение */
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
         }
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
+        .overlay {
+            background-color: rgba(255, 255, 255, 0.8); /* Полупрозрачный белый фон для контента */
             padding: 20px;
-            background-color: #fff;
             border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 50px auto;
         }
         h1 {
             font-size: 2.5em;
@@ -57,12 +59,12 @@
     </style>
 </head>
 <body>
-    <div class="container">
+    <div class="overlay">
         <h1>Приглашение на свадьбу</h1>
         <div class="names">Максим & Ксения</div>
-        <img src="https://vk.com/album442458287_268837826?z=photo442458287_457244288%2Falbum442458287_268837826%2Frev="Фото пары" class="photo">
+        <img src="https://sun9-55.userapi.com/impg/5wGbNxyzwmhB-G0fS05DSl1mUZjI4euEuyEMdQ/IBSpBQ8ec2I.jpg?size=1106x1472&quality=96&sign=ee8d69d90724a852980eb75c80910713&type=album" alt="Фото пары" class="photo">
         <div class="date">08.08.2025</div>
-        <div class="location">Город Екатеринбург</div>
+        <div class="location">Город Екатеринбург, Верхняя Пышма Загс 10:00 </div>
         <div class="message">
             Дорогие друзья и родные!<br>
             Мы рады пригласить вас на наш самый важный день — день нашей свадьбы!<br>
