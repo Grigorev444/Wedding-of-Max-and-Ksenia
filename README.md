@@ -25,7 +25,7 @@
             background-attachment: fixed; /* Фиксированный фон */
         }
         .hero {
-            background-image: url('https://img.freepik.com/premium-photo/lettering-spring-with-white-flowers-grey-background_76790-195.jpg?w=740'); /* Замените на свадебный фон */
+            background-image: url('https://balthazar.club/uploads/posts/2023-09/1694502961_balthazar-club-p-krasivii-svadebnii-fon-pinterest-3.jpg'); /* Замените на свадебный фон */
             color: white;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
         }
@@ -54,7 +54,7 @@
             border-radius: 10px;
         }
         .details {
-            background-image: url('https://img.freepik.com/premium-photo/flowers-composition-fresh-eucalyptus-leaves-cotton-flowers-light-background-banner_114589-468.jpg?w=1800'); /* Замените на второй фон */
+            background-image: url('https://balthazar.club/uploads/posts/2023-09/1694502961_balthazar-club-p-krasivii-svadebnii-fon-pinterest-3.jpg'); /* Замените на второй фон */
             color: white;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
         }
@@ -103,7 +103,7 @@
         <h2>Место проведения</h2>
         <p>Город Екатеринбург, 08.08.2025 года</p>
         <p>ЗАГС Пышма, время 10:00</p>
-        <img src="https://sun9-3.userapi.com/impg/Zt7zJLILuZ3PTcjewTXgs-D7O1fm1ddo8Qz7CA/LsWMeWx-wHI.jpg?size=1178x1472&quality=96&sign=f58128b133f0b39eab30497e169976d6&type=album> <!-- Замените на ваше фото -->
+        <img src="https://sun9-46.userapi.com/impg/c855536/v855536779/1d7184/rM3p_aTuV-w.jpg?size=980x1472&quality=96&sign=161c080c7c48661f2bbab79a2c4c7602&type=album> <!-- Замените на ваше фото -->
         <p class="dress-code">Дресс-код: При выборе одежды придерживаемся постельных тонов.</p>
         <p class="confirmation">Пожалуйста, сообщите о своем присутствии до 01.03.2025 года.</p>
         <img src="https://sun9-55.userapi.com/impg/uPWA1ZWxK4Egjtev0ysN-OAoNxv5PXU_j8rRSA/V6XaCjUNL6w.jpg?size=719x960&quality=96&sign=d9cf3127fe18e706f953ce93d0d351ec&type=album"> <!-- Замените на ваше фото -->
